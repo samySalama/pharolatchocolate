@@ -1,0 +1,19 @@
+{
+  "status": "passed",
+  "checks": [
+    "Original 11-product catalogue and Arabic-first RTL",
+    "Responsive layouts with no horizontal overflow: ar, 360–1440px",
+    "Responsive layouts with no horizontal overflow: en, 360–1440px",
+    "All category filters, Arabic/English search, empty state and reset",
+    "Milk 130 / dark 120 EGP, itemised WhatsApp URL and 370 EGP subtotal",
+    "Quantity updates, removal, persistence, dialog Escape and empty-basket state",
+    "Arabic cart translation, Arabic currency and encoded order message",
+    "Working mobile navigation and drawer",
+    "All supplied product, hero, gallery and brand image files load",
+    "Native dialog keyboard focus trapping",
+    "Extract-and-open index.html works without a build step",
+    "Corrupt saved basket validation",
+    "No JavaScript runtime errors"
+  ],
+  "runtime_errors": []
+}
